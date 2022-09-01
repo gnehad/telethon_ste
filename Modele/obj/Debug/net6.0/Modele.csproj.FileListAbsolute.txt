@@ -1,0 +1,16 @@
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-11h20\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.csproj.AssemblyReference.cache
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-11h20\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-11h20\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.AssemblyInfoInputs.cache
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-11h20\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.AssemblyInfo.cs
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-11h20\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.csproj.CoreCompileInputs.cache
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.GeneratedMSBuildEditorConfig.editorconfig
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.AssemblyInfoInputs.cache
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.AssemblyInfo.cs
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.csproj.CoreCompileInputs.cache
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\bin\Debug\net6.0\Modele.deps.json
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\bin\Debug\net6.0\Modele.dll
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\bin\Debug\net6.0\ref\Modele.dll
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\bin\Debug\net6.0\Modele.pdb
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.dll
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\obj\Debug\net6.0\ref\Modele.dll
+E:\Travail\C#\Version qui fonctionne\VersionDeTravail15-04-22-13h00AvecBibliotheque\VersionDeTravail\Modele\obj\Debug\net6.0\Modele.pdb
